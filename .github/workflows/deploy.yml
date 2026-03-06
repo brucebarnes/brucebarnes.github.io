@@ -1,4 +1,4 @@
-ame: Deploy Hospital Surge to GitHub Pages
+name: Deploy Hospital Surge to GitHub Pages
 
 on:
   push:
